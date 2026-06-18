@@ -150,17 +150,17 @@ Security monitoring tasks include:
 
 ## 📸 Project Screenshots
 
-### Dashboard Overview
+## 📊 Dashboard Overview
 
-Displays the overall security posture and system health.
+![Dashboard Overview](screenshot/dashboard.png)
 
-### Connected Agents
+## 🖥️ Connected Agent
 
-Shows active Windows endpoints connected to Wazuh.
+![Connected Agent](screenshot/connected-agent.png)
 
-### Security Alerts
+## 🚨 Security Alerts
 
-Displays generated alerts for monitored events.
+![Security Alerts](screenshot/security-alerts.png)
 ---
 
 ## 📚 Learning Outcomes
