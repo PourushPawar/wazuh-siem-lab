@@ -181,16 +181,6 @@ Through this project, I gained hands-on experience in:
 
 ---
 
-## 🔮 Future Improvements
-
-- Add multiple endpoints
-- Integrate Sysmon
-- Create custom detection rules
-- Build threat-hunting scenarios
-- Simulate attack events
-
----
-
 ## 📄 License
 
 This project is created for educational and cybersecurity learning purposes.
