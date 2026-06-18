@@ -1,3 +1,5 @@
+![Wazuh SIEM Architecture](architecture/architecture.png)
+
 # 🛡️ Wazuh SIEM Lab – Windows to Ubuntu Log Monitoring
 
 ## 📌 Project Overview
