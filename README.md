@@ -160,6 +160,10 @@ Security monitoring tasks include:
 
 ![Connected Agent](screenshot/connected-agent.png)
 
+## 🐧 Wazuh Manager Status (Ubuntu)
+
+![Wazuh Manager Status](screenshot/active-manager.png)
+
 ## 🚨 Security Alerts
 
 ![Security Alerts](screenshot/security-alerts.png)
